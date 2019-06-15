@@ -1,0 +1,16 @@
+{
+  "name": "nodejs_tesseract-ocr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {
+    "jimp": "^0.6.4",
+    "tesseract.js": "^2.0.0-alpha.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
